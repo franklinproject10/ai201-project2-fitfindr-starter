@@ -228,3 +228,6 @@ ai201-project2-fitfindr-starter/
 ├── data/               # listings.json (40 items) + wardrobe_schema.json
 └── utils/data_loader.py
 ```
+
+
+<img width="561" height="642" alt="image" src="https://github.com/user-attachments/assets/f8c6c34d-b72b-4a29-a592-1b510c634d3e" />
